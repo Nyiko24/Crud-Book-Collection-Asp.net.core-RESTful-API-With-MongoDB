@@ -6,11 +6,11 @@ Things I did:
 
 Using  C# and ASP.NET Core to develop the RESTful API.
 1. Implement CRUD (Create, Read, Update, Delete) operations for books. Each book should have the following properties:
-~Title (string, required).
-~Author (string, required).
-~Genre (string, optional).
-~Publication Year (integer, optional).
-~ISBN (string, unique, optional).
+Title (string, required).
+Author (string, required).
+Genre (string, optional).
+Publication Year (integer, optional).
+ISBN (string, unique, optional).
 
 2. Created API endpoints for the following actions:
 ¬ Create a new book.
