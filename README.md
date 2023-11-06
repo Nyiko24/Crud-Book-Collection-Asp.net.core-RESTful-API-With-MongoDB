@@ -24,5 +24,8 @@ ISBN (string, unique, optional).
 5. Used proper RESTful API conventions for endpoint naming and HTTP methods.
 6. Used MongoDB as the database to store and retrieve book data.
 
-I'll share more snaps and demonstration in time
+7. When you run the project. This is what will appear.
+
+![image](https://github.com/Nyiko24/Crud-Book-Collection-Asp.net.core-RESTful-API-With-MongoDB/assets/114064061/8d6085b0-c641-4544-a2fd-ed827662b761)
+
 
